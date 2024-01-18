@@ -1,4 +1,5 @@
 # cs536_final_project
+Detailed Information
 https://github.com/parthjain99/Food-AI-Using-Cross-Modal-representation-Learning/blob/main/Final_report.pdf
 
 # Description:
